@@ -1,5 +1,5 @@
 <h1 align="left" id="umbertosavoia-title">:wave: Hello there! I'm Umberto Savoia</h1>
-<h3 align="left">I'm a software developer</h3>
+<h3 align="center">I'm a software developer</h3>
 
 <p align="left">
 	<a href="https://github.com/UmbertoSavoia/UmbertoSavoia">
