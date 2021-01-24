@@ -10,6 +10,8 @@
 	</a>
 </p>
 
+## 🔧 Technologies & Tools
+
 ## &#x1f4c8; GitHub Stats
 
 <p align="center">
