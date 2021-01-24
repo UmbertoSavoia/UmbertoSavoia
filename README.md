@@ -1,7 +1,7 @@
 <h1 align="left" id="umbertosavoia-title">:wave: Hello there! I'm Umberto Savoia</h1>
 <h3 align="center">I'm a software developer</h3>
 
-<p align="left">
+<p align="center">
 	<a href="https://github.com/UmbertoSavoia/UmbertoSavoia">
 	  <img src="https://komarev.com/ghpvc/?username=UmbertoSavoia" alt="page views" />
 	</a>
@@ -11,6 +11,16 @@
 </p>
 
 ## &#x1f4c8; GitHub Stats
+
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=UmbertoSavoia&show_icons=true&count_private=true" alt="UmbertoSavoia" />
+</p>
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmbertoSavoia&layout=compact" alt="UmbertoSavoia" />
+</p>
+
+
+
 
 
 <!--
