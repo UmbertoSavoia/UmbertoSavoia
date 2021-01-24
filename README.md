@@ -22,7 +22,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="chrome" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="chrome" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" alt="chrome" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/debian-original.svg" alt="debian" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/>
 	
 </p>
 
