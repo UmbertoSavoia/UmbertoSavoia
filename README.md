@@ -34,6 +34,9 @@
 ## &#x1f4c8; GitHub Stats
 
 <p align="center">
+	<img align="center" src="https://badge42.herokuapp.com/api/stats/usavoia"/>
+</p>
+<p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=UmbertoSavoia&show_icons=true&count_private=true" alt="UmbertoSavoia" />
 </p>
 <p align="center">
