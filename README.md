@@ -40,7 +40,7 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=UmbertoSavoia&show_icons=true&count_private=true" alt="UmbertoSavoia" />
 </p>
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmbertoSavoia&layout=compact&count_private=true" alt="UmbertoSavoia" />
+	<img src="https://github-readme-stats-olive-nine.vercel.app/api/top-langs/?username=UmbertoSavoia&layout=compact&count_private=true" alt="UmbertoSavoia" />
 </p>
 
 
