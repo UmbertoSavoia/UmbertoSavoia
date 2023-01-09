@@ -1,3 +1,23 @@
+```zsh
+> neofetch
+```
+
+<img align="left" src="https://industrial-innovation.it/wp-content/uploads/2022/01/attacchi-hacker-in-tempo-reale.png" width="300" height="230" /> 
+
+```csharp
+UmbertoSavoia@github
+----------------------------
+OS:         Debian GNU/Linux
+Location:   Roma, RM
+Frameworks: Flutter, QT, React, Angular,
+            NestJS, Node
+Languages:  C, CPP, Assembly, Go, Rust, Dart,
+            JavaScript, TypeScript, HTML,
+	    CSS, Latex
+Tool:       Vim, VSCode, CLion, SSH, Git, Docker 
+```
+
+<!--
 <h1 align="left" id="umbertosavoia-title">:wave: Hello there! I'm Umberto Savoia</h1>
 <h3 align="center">I'm a software developer</h3>
 
@@ -42,7 +62,7 @@
 <p align="center">
 	<img src="https://github-readme-stats-olive-nine.vercel.app/api/top-langs/?username=UmbertoSavoia&layout=compact&cache_seconds=1800" alt="UmbertoSavoia" />
 </p>
-
+-->
 
 
 
