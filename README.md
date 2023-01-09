@@ -7,14 +7,15 @@
 ```csharp
 UmbertoSavoia@github
 ----------------------------
-OS:         Debian GNU/Linux
-Location:   Roma, RM
-Frameworks: Flutter, QT, React, Angular,
-            NestJS, Node
-Languages:  C, CPP, Assembly, Go, Rust, Dart,
-            JavaScript, TypeScript, HTML,
-	    CSS, Latex
-Tool:       Vim, VSCode, CLion, SSH, Git, Docker 
+OS:           Debian GNU/Linux
+Location:     Roma, RM
+Frameworks:   Flutter, QT, React, Angular,
+              NestJS, Node
+Languages:    C, CPP, Assembly, Go, Rust, Dart,
+              JavaScript, TypeScript, HTML,
+	      CSS, Latex
+IDE:          Vim, VSCode, CLion, Goland, WebStorm
+Technologies: Linux, Windows, Nginx, SSH, Git, Docker
 ```
 
 <!--
