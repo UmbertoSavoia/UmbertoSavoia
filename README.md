@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://industrial-innovation.it/wp-content/uploads/2022/01/attacchi-hacker-in-tempo-reale.png" width="300" height="220" /> 
+<img align="left" src="https://industrial-innovation.it/wp-content/uploads/2022/01/attacchi-hacker-in-tempo-reale.png" width="300" height="225" /> 
 
 ```csharp
 UmbertoSavoia@github
